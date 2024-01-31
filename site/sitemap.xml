@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://ossirytk.github.io/documentation-test/</loc>
+         <lastmod>2024-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://ossirytk.github.io/documentation-test/UNLICENSE/</loc>
+         <lastmod>2024-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://ossirytk.github.io/documentation-test/about/</loc>
+         <lastmod>2024-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://ossirytk.github.io/documentation-test/installation/</loc>
+         <lastmod>2024-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://ossirytk.github.io/documentation-test/some_code_stuff/</loc>
+         <lastmod>2024-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://ossirytk.github.io/documentation-test/some_other_code_stuff/</loc>
+         <lastmod>2024-01-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
